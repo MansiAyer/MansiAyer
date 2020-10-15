@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   </span></div>
 
-<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn-images.win.gg/news/70821a40b06f8751781d5a895357da67/50311cb87ffca0fa49bbc3ae13f3c4fb/original.png"></img></a>
+<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn130.picsart.com/337030419061211.png?type=webp&to=min&r=240"></img></a>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"> </img></div>
 
