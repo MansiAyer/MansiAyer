@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api"> </img></div>
+<div align="center" style="background: rgba(4,26,48,1);"><img src="https://readme-jokes.vercel.app/api"> </img></div>
 <a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://i.redd.it/775z20zyovj51.jpg"></img></a>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"> </img></div>
