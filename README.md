@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="background: linear-gradient(180deg, rgba(4,26,48,1) 0%, rgba(37,37,82,1) 35%, rgba(26,27,39,1) 100%); text-align:center;">
-<img src="https://readme-jokes.vercel.app/api"/>
+<img src="https://readme-jokes.vercel.app/api"></img>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"></img>
 </div>
