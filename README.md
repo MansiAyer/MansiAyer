@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <body bgcolor="rgba(4,26,48,1)">
+
 <div align="center"><span>  
-  <img width="150px" height="150px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
+   
   <img src="https://readme-jokes.vercel.app/api"> </img>
-  <img width="150px" height="150px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
+  
   </span></div>
-</body>
-<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://i.redd.it/775z20zyovj51.jpg"></img></a>
+
+<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn-images.win.gg/news/70821a40b06f8751781d5a895357da67/50311cb87ffca0fa49bbc3ae13f3c4fb/original.png"></img></a>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"> </img></div>
 
