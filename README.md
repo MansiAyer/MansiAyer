@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
  <body bgcolor="rgba(4,26,48,1)">
 <div align="center"><span>  
-  <img width="150px" height="150px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
+  <img width="200px" height="200px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
   <img src="https://readme-jokes.vercel.app/api"> </img>
-  <img width="150px" height="150px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
+  <img width="200px" height="200px" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/KDA_Orb.gif/revision/latest/top-crop/width/220/height/220?cb=20181208112614"></img> 
   </span></div>
 </body>
 <a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://i.redd.it/775z20zyovj51.jpg"></img></a>
