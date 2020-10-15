@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Ice Breaker](https://i.redd.it/775z20zyovj51.jpg)](https://youtu.be/Y8kMcf4kyIk)
+<div align="center"><img src="https://readme-jokes.vercel.app/api"> </img></div>
+<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://i.redd.it/775z20zyovj51.jpg"></img></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"> </img></div>
 
