@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center"><span>  
    
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23041a30&textColor=%232289F0&aColor=%2363B1FF&qColor=%2363B1FF&borderColor=%2372e7ff"> </img>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23041a30&aColor=%2363B1FF&qColor=%2363B1FF&borderColor=%2372e7ff"> </img>
   
   </span></div>
 
