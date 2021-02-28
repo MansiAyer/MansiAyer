@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 <a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn130.picsart.com/337030419061211.png?type=webp&to=min&r=240"></img></a>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MansiAyer&theme=tokyonight"> </img></div>
 
