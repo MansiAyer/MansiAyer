@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <div align="center"><span>  
    
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23041a30&aColor=%2363B1FF&qColor=%232289F0&textColor=%232289F0&borderColor=%2372e7ff"> </img>
-  
+  <!-- 
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23041a30&aColor=%2363B1FF&qColor=%232289F0&textColor=%232289F0&borderColor=%2372e7ff"> </img>
+  -->
   </span></div>
 
 <a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn130.picsart.com/337030419061211.png?type=webp&to=min&r=240"></img></a>
