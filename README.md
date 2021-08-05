@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+:octocat: _all around me are incomplete projects_ :octocat:
 <div align="center"><span>  
    
   <!-- 
