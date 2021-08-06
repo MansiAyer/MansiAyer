@@ -17,15 +17,26 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> :octocat: <i>all around me are incomplete projects<i> :octocat: <span>  
+<div align="center"> :octocat: <i>Hello There!<i> :octocat: <span> </div>
+<input type="text" pattern="/general kenobi/i"/>
+   
+   <p> Skills : 
+      <span> [![HTML](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png)](http://www.w3.org/html/logo/) </span>
+      <span> [![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)](https://commons.wikimedia.org/wiki/File:CSS3_logo.svg) </span>
+      <span> [![PYTHON3](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/community/logos/) </span>
+      <span> [![C#](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)](https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg) </span>
+      <span> [![PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/download-logos.php) </span>
+      <span> [![JavaScript](idk bruh)](https://www.javascript.com/) [also, tutorial page? idk](https://javascript.info/)</span>
+      <span> [![JQuery](much legal, such scare)](https://brand.jquery.org/logos/#the-mark) </span>
+      <span> [![More to come](http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png)](https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761) </span>
+   </p>
+   
+   <p> Learning :
+   </p>
+   
+   <p> Projects :
+   </p>
    
   <!-- 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23041a30&aColor=%2363B1FF&qColor=%232289F0&textColor=%232289F0&borderColor=%2372e7ff"> </img>
-  
-  </span></div>
-
-<a href="https://youtu.be/Y8kMcf4kyIk"><img src="https://cdn130.picsart.com/337030419061211.png?type=webp&to=min&r=240"></img></a>
-
 -->
    
-   <img src="https://wallpapercave.com/wp/wp7629026.png"></img>
