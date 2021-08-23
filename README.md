@@ -38,17 +38,27 @@ Here are some ideas to get you started:
       <span>  <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50"></a> </span>
       <span>  <a href="https://www.python.org/community/logos/"> <img alt="PYTHON3" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="150" height="50"></a> </span>
       <span>  <a href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg"> <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="50" height="50"></a> </span>
+      <br>
       <span> <a href="https://www.php.net/download-logos.php"> <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="100" height="100"></a> </span>
       <span> <a href="https://javascript.info/"> <img alt="JavaScript" src="https://seeklogo.net/wp-content/uploads/2015/07/javascript-logo-vector-download.jpg" width="50" height="50"></a> (https://www.javascript.com/) [also, tutorial page? idk]</span>
-      <span>  <a href="https://brand.jquery.org/logos/#the-mark"> <img alt="JQuery" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="150" height="50"></a> </span>
-   <span>  <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="100"></a> <small>yes</small> </span>
+      <span bgcolor="#ffffff">  <a href="https://brand.jquery.org/logos/#the-mark"> <img alt="JQuery" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="150" height="50"></a> </span>
+      <br>
+      <span>  <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="100"></a> <small>yes</small> </span>
+      
+      HTML, CSS, Python, Javascript, C#, Php, JQuery, Unity, XML, C, MySQL, Java, Adobe XD, Adobe Illustrator, Blender, ML, Flask, NodeJS, GCP
       
    </div>   
    
    <p> Learning :
+      JSON, working with RESTful APIs, Russian, Web security, React
+   </p>
+   
+   <p> Wishlist :
+      Ruby, Ethical Hacking, Julia, AOSP custom build, Angular, +++++
    </p>
    
    <p> Projects :
+      Restaurant website development, Emotion detection from voice clips ML, Solar system animation Blender, Small gamedev projects in Unity, modiretreats homepage clone, client website development, buddies blog, ++?
    </p>
    
   <!-- 
