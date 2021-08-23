@@ -32,16 +32,16 @@ Here are some ideas to get you started:
        [![More to come](http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png)](https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761) 
    -->
   
-   <p> Skills : </p>
+   <p> What I can do : </p>
    <div>
-      <div> <a href="http://www.w3.org/html/logo/" style="text-decoration:none"> <img alt="HTML" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" height="50"></a> </div>
-      <div> <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg" style="text-decoration:none"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50"></a> </div>
-      <div> <a href="https://www.python.org/community/logos/" style="text-decoration:none"> <img alt="PYTHON3" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="150" height="50"></a> </div>
+      <div> <a href="http://www.w3.org/html/logo/" style="text-decoration:none"> <img alt="HTML" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" height="50"></a> HTML </div>
+      <div> <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg" style="text-decoration:none"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50"></a> CSS </div>
+      <div> <a href="https://www.python.org/community/logos/" style="text-decoration:none"> <img alt="PYTHON3" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="150" height="50"></a> Python </div>
       <div> <a href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg" style="text-decoration:none"> <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="50" height="50"></a> </div>
       <div> <a href="https://www.php.net/download-logos.php" style="text-decoration:none"> <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="100" height="100"></a> </div>
       <div> <a href="https://javascript.info/" style="text-decoration:none"> <img alt="JavaScript" src="https://seeklogo.net/wp-content/uploads/2015/07/javascript-logo-vector-download.jpg" width="50" height="50"></a> (https://www.javascript.com/) [also, tutorial page? idk]</div>
-      <div> <a href="https://brand.jquery.org/logos/#the-mark" style="text-decoration:none"> <img alt="JQuery" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="150" height="50"></a> </div>
-      <div> <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761" style="text-decoration:none"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="150"></a> </div>
+      <div style="background-color:white;"> <a href="https://brand.jquery.org/logos/#the-mark" style="text-decoration:none"> <img alt="JQuery" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/1200px-JQuery-Logo.svg.png" width="150" height="50"></a> </div>
+      <div> <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761" style="text-decoration:none"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="150"></a> yes </div>
       
    </div>   
    
