@@ -35,12 +35,12 @@ Here are some ideas to get you started:
    <p> Skills : 
       <span> <a href="http://www.w3.org/html/logo/" style="text-decoration:none"> <img alt="HTML" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" height="50"></a> </span>
       <span> <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg" style="text-decoration:none"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50"></a> </span>
-      <span> <a href="https://www.python.org/community/logos/" style="text-decoration:none"> <img alt="PYTHON3" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="50" height="50"></a> </span>
+      <span> <a href="https://www.python.org/community/logos/" style="text-decoration:none"> <img alt="PYTHON3" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="150" height="50"></a> </span>
       <span> <a href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg" style="text-decoration:none"> <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="50" height="50"></a> </span>
       <span> <a href="https://www.php.net/download-logos.php" style="text-decoration:none"> <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50"></a> </span>
       <span> <a href="https://javascript.info/" style="text-decoration:none"> <img alt="JavaScript" src="idk bruh" width="50" height="50"></a> (https://www.javascript.com/) [also, tutorial page? idk]</span>
       <span> <a href="https://brand.jquery.org/logos/#the-mark" style="text-decoration:none"> <img alt="JQuery" src="https://en.wikipedia.org/wiki/JQuery#/media/File:JQuery_logo.svg" width="50" height="50"></a> </span>
-      <span> <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761" style="text-decoration:none"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="50" height="50"></a> </span>
+      <span> <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761" style="text-decoration:none"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="50"></a> </span>
       
       
    </p>
