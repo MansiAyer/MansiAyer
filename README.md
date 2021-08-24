@@ -45,9 +45,9 @@ Here are some ideas to get you started:
       <br>
       <span>  <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="100"></a> <small>yes</small> </span>
       
-      <b>
+      <span>
          HTML, CSS, Python, Javascript, C#, Php, JQuery, Unity, XML, C, MySQL, Java, Adobe XD, Adobe Illustrator, Blender, ML, Flask, NodeJS, GCP
-      </b>
+      </span>
       
    </div>   
    
