@@ -32,7 +32,7 @@ Here are some ideas to get you started:
        [![More to come](http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png)](https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761) 
    -->
   
-   <p> What I can do : </p>
+   <p> What I can do (Current Skillset): </p>
    <div>
       <span> <a href="http://www.w3.org/html/logo/"> <img alt="HTML" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" height="50"></a> </span>
       <span>  <a href="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg"> <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50"></a> </span>
@@ -45,20 +45,26 @@ Here are some ideas to get you started:
       <br>
       <span>  <a href="https://www.deviantart.com/annefaizuani/art/FREE-TO-USE-Loading-animation-483231761"> <img alt="More to come" src="http://cdn2.scratch.mit.edu/get_image/gallery/981806_170x100.png" width="150" height="100"></a> <small>yes</small> </span>
       
-      HTML, CSS, Python, Javascript, C#, Php, JQuery, Unity, XML, C, MySQL, Java, Adobe XD, Adobe Illustrator, Blender, ML, Flask, NodeJS, GCP
+      <b>
+         HTML, CSS, Python, Javascript, C#, Php, JQuery, Unity, XML, C, MySQL, Java, Adobe XD, Adobe Illustrator, Blender, ML, Flask, NodeJS, GCP
+      </b>
       
    </div>   
    
-   <p> Learning :
+   <p> What I am learning to do (Learning) :
       JSON, working with RESTful APIs, Russian, Web security, React
    </p>
    
-   <p> Wishlist :
+   <p> What I want to do (Wishlist) :
       Ruby, Ethical Hacking, Julia, AOSP custom build, Angular, +++++
    </p>
    
-   <p> Projects :
+   <p> What I have done (Projects) :
       Restaurant website development, Emotion detection from voice clips ML, Solar system animation Blender, Small gamedev projects in Unity, modiretreats homepage clone, client website development, buddies blog, ++?
+   </p>
+   
+   <p> What I usually do (Hobbies) :
+      making clones of existing webpages, creating minigames in various programming languages, having an existential crisis, making python scripts for the most mundane tasks ++?
    </p>
    
   <!-- 
