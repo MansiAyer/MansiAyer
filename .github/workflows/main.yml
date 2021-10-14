@@ -39,9 +39,11 @@ jobs:
         run: echo Hello, world!
         
       - name: Setup Python
-      #  uses: actions/setup-python@v2
+        uses: actions/setup-python@v2
+        
+      - name: Install Dependencies 
         run: |
-          sudo su
+          python -m pip install --upgrade pip
           apt-get install python3-bs4
 
       # Runs a set of commands using the runners shell
