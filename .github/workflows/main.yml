@@ -50,23 +50,29 @@ jobs:
           git clone https://${GITHUB_TOKEN}@github.com/${GITHUB_ACTOR}/${GITHUB_ACTOR}/
           cd ${GITHUB_ACTOR}/update/ 
           python main.py
+          cd ..
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "42694815+${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -m "updating readme stars"
+          git push
           
       # Push the updated star list to live readme
       #- name: Push updates
       #  uses: MansiAyer/push@v1
       #  with: 
       #    token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push updates
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        #  GITHUB_ACTOR: ${GITHUB_ACTOR}
-        run: |
-          cd ${GITHUB_ACTOR}/
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "42694815+${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          git commit -m "updating readme stars"
-          git push --set-upstream "https://${GITHUB_TOKEN}@github.com/${GITHUB_ACTOR}/${GITHUB_ACTOR}/"
+      #- name: Push updates
+      #  env:
+      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #    GITHUB_ACTOR: ${GITHUB_ACTOR}
+      #  run: |
+      #    cd ${GITHUB_ACTOR}/
+      #    git config user.name "${GITHUB_ACTOR}"
+      #    git config user.email "42694815+${GITHUB_ACTOR}@users.noreply.github.com"
+      #    git add .
+      #    git commit -m "updating readme stars"
+      #    git push --set-upstream "https://${GITHUB_TOKEN}@github.com/${GITHUB_ACTOR}/${GITHUB_ACTOR}/"
         
           
           
