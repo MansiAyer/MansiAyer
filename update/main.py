@@ -1,2 +1,2 @@
-with open("text.txt","w") as file:
-    file.write("testing workflow")
+with open("MansiAyer/sample.md","w") as file:
+    file.write("#testing md generation ##line two")
