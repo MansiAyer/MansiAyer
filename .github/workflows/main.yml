@@ -47,7 +47,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ACTOR: ${GITHUB_ACTOR}
         run: |
-          git clone https://${GITHUB_TOKEN}@github.com/${GITHUB_ACTOR}/${GITHUB_ACTOR}/
+          git clone https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_ACTOR}/${GITHUB_ACTOR}/
           cd ${GITHUB_ACTOR}/update/ 
           python main.py
           cd ..
