@@ -1,5 +1,41 @@
 <div align='center'> :octocat: <i> :jack_o_lantern: </i> :octocat: </div><br><details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
 <b>
+<a href="/maguowei/starred">
+<span class="text-normal">maguowei / </span>starred
+      </a>
+</b>: <sup>[<span class="ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
+        creating your own Awesome List by GitHub stars!
+      </p></span>
+<br>
+
+
+<b>
+<a href="/sdmg15/Best-websites-a-programmer-should-visit">
+<span class="text-normal">sdmg15 / </span>Best-websites-a-programmer-should-visit
+      </a>
+</b>: <sup></sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
+<g-emoji alias="link" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Some useful websites for programmers.
+      </p></span>
+<br>
+
+
+<b>
+<a href="/home-assistant/core">
+<span class="text-normal">home-assistant / </span>core
+      </a>
+</b>: <sup>[<span class="ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
+<g-emoji alias="house_with_garden" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png">🏡</g-emoji> Open source home automation that puts local control and privacy first.
+      </p></span>
+<br>
+
+
+<b>
 <a href="/moratelli/github-starred-repos">
 <span class="text-normal">moratelli / </span>github-starred-repos
       </a>
@@ -325,45 +361,6 @@
 <span itemprop="programmingLanguage">Java</span>
 </span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
         Bluetooth instant messaging app for Android
-      </p></span>
-<br>
-
-
-<b>
-<a href="/neurek88/Bionic-Boar">
-<span class="text-normal">neurek88 / </span>Bionic-Boar
-      </a>
-</b>: <sup>[<span class="ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #178600"></span>
-<span itemprop="programmingLanguage">C#</span>
-</span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
-        Side scrolling run and gun game made with unity. 
-      </p></span>
-<br>
-
-
-<b>
-<a href="/nette/tracy">
-<span class="text-normal">nette / </span>tracy
-      </a>
-</b>: <sup>[<span class="ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #4F5D95"></span>
-<span itemprop="programmingLanguage">PHP</span>
-</span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
-<g-emoji alias="sunglasses" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji> Tracy: the addictive tool to ease debugging PHP code for cool developers. Friendly design, logging, profiler, advanced features like debugging AJAX calls or CLI support. You will love it.
-      </p></span>
-<br>
-
-
-<b>
-<a href="/hotsh/rstat.us">
-<span class="text-normal">hotsh / </span>rstat.us
-      </a>
-</b>: <sup>[<span class="ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #701516"></span>
-<span itemprop="programmingLanguage">Ruby</span>
-</span>]</sup><span><p class="d-inline-block col-9 color-text-secondary pr-4" itemprop="description">
-        Simple microblogging network based on the ostatus protocol.
       </p></span>
 <br>
 
