@@ -57,9 +57,9 @@ jobs:
       #  with: 
       #    token: ${{ secrets.GITHUB_TOKEN }}
       - name: Push updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_ACTOR: ${GITHUB_ACTOR}
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #  GITHUB_ACTOR: ${GITHUB_ACTOR}
         run: |
           cd ${GITHUB_ACTOR}/
           git config user.name "${GITHUB_ACTOR}"
