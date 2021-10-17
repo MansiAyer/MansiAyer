@@ -1,7 +1,7 @@
 <div align='center'> 
   :octocat: <i> :jack_o_lantern: </i> :octocat: 
   <p><b>it's spooky month</b></p>
-  <img src="spookyscaryskeletons.gif"/>
+  <img src="src/spookyscaryskeletons.gif"/>
 </div>
 
 > ## About me:
