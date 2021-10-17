@@ -2,7 +2,7 @@ from github import Github
 import sys
 
 g = Github(sys.argv[1])
-listitems = g.get_user().get_starred()
+listitems = g.get_user('MansiAyer').get_starred()
 
 for x in listitems:
 		try:
