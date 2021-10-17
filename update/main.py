@@ -13,20 +13,18 @@ tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octoc
 for x in listitems:
 		try:
 			url = str(x.html_url)
-			title = "<b><a href =\"" +url+ "\">" +str(x.full_name)+ "</a></b>"
+			title = "<b><a href =\"" +url+ "\">" +str(x.full_name)+ "</a></b> \n"
 		except:
 			continue
 		try:
-			description = "<p>"+str(x.description)+"</p>"
+			description = "<p>"+str(x.description)+"</p> \n"
 		except:
 			continue
 		try:
 			proglang = str(x.language)
 		except:
 			continue
-		temp = str(title+": <sup>"+proglang+"</sup><span>"+description+"</span>\n<br>\n\n")
-		temp = temp.replace("None","<br>No description provided :/<br>")
-		temp = temp.replace("[]","")
+		temp = str(title+": <sup>["+proglang+"]</sup><span>"+description+"</span>\n<br>\n\n")
 		tootitems.append(temp)
 tootitems.append("</i></details>")
 
