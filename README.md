@@ -25,6 +25,32 @@
 
 <details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
 <b>
+<a href="/PyGithub/PyGithub">
+<span class="text-normal">PyGithub / </span>PyGithub
+      </a>
+</b>: <sup>[<span class="ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>]</sup><span><p class="d-inline-block col-9 color-fg-muted pr-4" itemprop="description">
+        Typed interactions with the GitHub API v3
+      </p></span>
+<br>
+
+
+<b>
+<a href="/ryo-ma/github-profile-trophy">
+<span class="text-normal">ryo-ma / </span>github-profile-trophy
+      </a>
+</b>: <sup>[<span class="ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #2b7489"></span>
+<span itemprop="programmingLanguage">TypeScript</span>
+</span>]</sup><span><p class="d-inline-block col-9 color-fg-muted pr-4" itemprop="description">
+<g-emoji alias="trophy" class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Add dynamically generated GitHub Stat Trophies on your readme
+      </p></span>
+<br>
+
+
+<b>
 <a href="/qtile/qtile">
 <span class="text-normal">qtile / </span>qtile
       </a>
@@ -362,32 +388,6 @@
 <span itemprop="programmingLanguage">C</span>
 </span>]</sup><span><p class="d-inline-block col-9 color-fg-muted pr-4" itemprop="description">
         TeaVPN2 - An open source VPN Software (currently supported platform is only Linux).
-      </p></span>
-<br>
-
-
-<b>
-<a href="/odoo/odoo">
-<span class="text-normal">odoo / </span>odoo
-      </a>
-</b>: <sup>[<span class="ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #f1e05a"></span>
-<span itemprop="programmingLanguage">JavaScript</span>
-</span>]</sup><span><p class="d-inline-block col-9 color-fg-muted pr-4" itemprop="description">
-        Odoo. Open Source Apps To Grow Your Business.
-      </p></span>
-<br>
-
-
-<b>
-<a href="/JessicaLim8/JessicaLim8">
-<span class="text-normal">JessicaLim8 / </span>JessicaLim8
-      </a>
-</b>: <sup>[<span class="ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #701516"></span>
-<span itemprop="programmingLanguage">Ruby</span>
-</span>]</sup><span><p class="d-inline-block col-9 color-fg-muted pr-4" itemprop="description">
-        Profile ReadME! Join my community word cloud!
       </p></span>
 <br>
 
