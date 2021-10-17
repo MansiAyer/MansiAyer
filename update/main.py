@@ -7,7 +7,7 @@ soup = bs(starspage.text, 'html.parser')
 
 
 listitems = []
-for x in soup.find_all("div", class_="col-12 d-block width-full py-4 border-bottom color-border-secondary"):
+for x in soup.find_all("div", class_="col-12 d-block width-full py-4 border-bottom color-border-muted"):
 		try:
 			title = str(x.h3)
 		except:
@@ -23,8 +23,11 @@ for x in soup.find_all("div", class_="col-12 d-block width-full py-4 border-bott
 		temp = str(title+": <sup>"+proglang+"</sup><span>"+description+"</span>\n<br>\n\n")
 		listitems.append(temp)
 
-temp = "<div align='center'> :octocat: <i> :jack_o_lantern: </i> :octocat: </div><br><details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>"
+with open('../src/README.md','r',encoding="utf-8") as file:
+	temp = str(file.read());
 tootitems = [temp]
+
+tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>")
 for x in listitems:
 		a = x.replace("<h3>","<b>")
 		a = a.replace("</h3>","</b>")
