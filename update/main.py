@@ -1,23 +1,21 @@
-from bs4 import BeautifulSoup as bs
-import requests
-import re
+from github import Github
+import sys
 
-starspage = requests.get('https://github.com/MansiAyer?tab=stars')
-soup = bs(starspage.text, 'html.parser')
+g = Github(sys.argv[1])
+listitems = g.get_user().get_starred()
 
-
-listitems = []
-for x in soup.find_all("div", class_="col-12 d-block width-full py-4 border-bottom color-border-muted"):
+for x in listitems:
 		try:
-			title = str(x.h3)
+			url = str(x.html_url)
+			title = "<b><a href =\"" +url+ ">" +str(x.full_name)+ "</a></b>"
 		except:
 			continue
 		try:
-			description = str(x.p)
+			description = str(x.description)
 		except:
 			continue
 		try:
-			proglang = str(x.find_all("span", class_="ml-0 mr-3"))
+			proglang = str(x.language)
 		except:
 			continue
 		temp = str(title+": <sup>"+proglang+"</sup><span>"+description+"</span>\n<br>\n\n")
@@ -29,8 +27,6 @@ tootitems = [temp]
 
 tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>")
 for x in listitems:
-		a = x.replace("<h3>","<b>")
-		a = a.replace("</h3>","</b>")
 		a = a.replace("None","<br>No description provided :/<br>")
 		a = a.replace("[]","")
 		tootitems.append(a)
