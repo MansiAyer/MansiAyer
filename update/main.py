@@ -18,10 +18,12 @@ for x in listitems:
 			continue
 		try:
 			description = "<p>"+str(x.description)+"</p>"
+			description = description.replace("None","<br>No description provided :/<br>")
 		except:
 			continue
 		try:
 			proglang = str(x.language)
+			proglang = proglang.replace("None","")
 		except:
 			continue
 		temp = str(title+": \n<sup>["+proglang+"]</sup><span>"+description+"</span>\n<br>\n\n")
