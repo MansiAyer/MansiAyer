@@ -13,7 +13,7 @@ tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octoc
 for x in listitems:
 		try:
 			url = str(x.html_url)
-			title = "<b><a href =\"" +url+ ">" +str(x.full_name)+ "</a></b>"
+			title = "<b><a href =\"" +url+ "\">" +str(x.full_name)+ "</a></b>"
 		except:
 			continue
 		try:
