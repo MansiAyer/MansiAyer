@@ -83,7 +83,7 @@
 <b>
 <a href ="https://github.com/sdmg15/Best-websites-a-programmer-should-visit">sdmg15/Best-websites-a-programmer-should-visit</a>
 </b>: 
-<sup>[None]</sup><span><p>:link: Some useful websites for programmers.</p></span>
+<sup>[]</sup><span><p>:link: Some useful websites for programmers.</p></span>
 <br>
 
 
@@ -104,7 +104,7 @@
 <b>
 <a href ="https://github.com/fluteds/starred">fluteds/starred</a>
 </b>: 
-<sup>[None]</sup><span><p>⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!</p></span>
+<sup>[]</sup><span><p>⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!</p></span>
 <br>
 
 
@@ -118,21 +118,21 @@
 <b>
 <a href ="https://github.com/rjoydip/github-actions-automate">rjoydip/github-actions-automate</a>
 </b>: 
-<sup>[None]</sup><span><p>Collection of github actions helps to automate GitHub CI/CD.</p></span>
+<sup>[]</sup><span><p>Collection of github actions helps to automate GitHub CI/CD.</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/sdras/awesome-actions">sdras/awesome-actions</a>
 </b>: 
-<sup>[None]</sup><span><p>A curated list of awesome actions to use on GitHub</p></span>
+<sup>[]</sup><span><p>A curated list of awesome actions to use on GitHub</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/pumpkin-py/pumpkin-py">pumpkin-py/pumpkin-py</a>
 </b>: 
-<sup>[Python]</sup><span><p>None</p></span>
+<sup>[Python]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -181,21 +181,21 @@
 <b>
 <a href ="https://github.com/benjaminsampica/benjaminsampica">benjaminsampica/benjaminsampica</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>None</p></span>
+<sup>[JavaScript]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a>
 </b>: 
-<sup>[None]</sup><span><p>A curated list of awesome Android UI/UX libraries</p></span>
+<sup>[]</sup><span><p>A curated list of awesome Android UI/UX libraries</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/Hack-with-Github/Awesome-Hacking">Hack-with-Github/Awesome-Hacking</a>
 </b>: 
-<sup>[None]</sup><span><p>A collection of various awesome lists for hackers, pentesters and security researchers</p></span>
+<sup>[]</sup><span><p>A collection of various awesome lists for hackers, pentesters and security researchers</p></span>
 <br>
 
 
@@ -251,7 +251,7 @@
 <b>
 <a href ="https://github.com/githubocto/repo-visualizer">githubocto/repo-visualizer</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>None</p></span>
+<sup>[JavaScript]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -314,7 +314,7 @@
 <b>
 <a href ="https://github.com/Coordinate-Cat/Coordinate-Cat">Coordinate-Cat/Coordinate-Cat</a>
 </b>: 
-<sup>[None]</sup><span><p>Reload to refresh.</p></span>
+<sup>[]</sup><span><p>Reload to refresh.</p></span>
 <br>
 
 
@@ -384,7 +384,7 @@
 <b>
 <a href ="https://github.com/xiaoluoboding/xiaoluoboding">xiaoluoboding/xiaoluoboding</a>
 </b>: 
-<sup>[None]</sup><span><p>My GitHub Profile. Before Fork it, Star it, Please. 😂</p></span>
+<sup>[]</sup><span><p>My GitHub Profile. Before Fork it, Star it, Please. 😂</p></span>
 <br>
 
 
@@ -440,7 +440,7 @@
 <b>
 <a href ="https://github.com/peterthehan/peterthehan">peterthehan/peterthehan</a>
 </b>: 
-<sup>[None]</sup><span><p>None</p></span>
+<sup>[]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -475,7 +475,7 @@
 <b>
 <a href ="https://github.com/HydroxideX/Speech-Emotion-Recognition">HydroxideX/Speech-Emotion-Recognition</a>
 </b>: 
-<sup>[MATLAB]</sup><span><p>None</p></span>
+<sup>[MATLAB]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -545,7 +545,7 @@
 <b>
 <a href ="https://github.com/hwang-taeha/withYou">hwang-taeha/withYou</a>
 </b>: 
-<sup>[TypeScript]</sup><span><p>None</p></span>
+<sup>[TypeScript]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -566,7 +566,7 @@
 <b>
 <a href ="https://github.com/DedSecInside/ReFleX">DedSecInside/ReFleX</a>
 </b>: 
-<sup>[None]</sup><span><p>ReFleX - Deep Image Recognition Bot</p></span>
+<sup>[]</sup><span><p>ReFleX - Deep Image Recognition Bot</p></span>
 <br>
 
 
@@ -685,7 +685,7 @@
 <b>
 <a href ="https://github.com/MarshmallowSpaghetti/GGJ_2018_Plan_B">MarshmallowSpaghetti/GGJ_2018_Plan_B</a>
 </b>: 
-<sup>[C#]</sup><span><p>None</p></span>
+<sup>[C#]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -706,7 +706,7 @@
 <b>
 <a href ="https://github.com/coderjolly/ipu-engineering-notes">coderjolly/ipu-engineering-notes</a>
 </b>: 
-<sup>[None]</sup><span><p>This repository contains notes required by CSE/ IT students for IP University. They are managed in respective folders along with some relevant PDFs also.</p></span>
+<sup>[]</sup><span><p>This repository contains notes required by CSE/ IT students for IP University. They are managed in respective folders along with some relevant PDFs also.</p></span>
 <br>
 
 
@@ -734,7 +734,7 @@
 <b>
 <a href ="https://github.com/szabgab/awesome-for-non-programmers">szabgab/awesome-for-non-programmers</a>
 </b>: 
-<sup>[None]</sup><span><p>None</p></span>
+<sup>[]</sup><span><p><br>No description provided :/<br></p></span>
 <br>
 
 
@@ -748,7 +748,7 @@
 <b>
 <a href ="https://github.com/MunGell/awesome-for-beginners">MunGell/awesome-for-beginners</a>
 </b>: 
-<sup>[None]</sup><span><p>A list of awesome beginners-friendly projects.</p></span>
+<sup>[]</sup><span><p>A list of awesome beginners-friendly projects.</p></span>
 <br>
 
 
