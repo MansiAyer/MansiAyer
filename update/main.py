@@ -2,7 +2,7 @@ from github import Github
 import sys
 
 g = Github(sys.argv[1])
-listitems = g.get_user('MansiAyer').get_starred()
+listitems = g.get_user('MansiAyer').get_starred().get_page(0)
 
 
 with open('../src/README.md','r',encoding="utf-8") as file:
