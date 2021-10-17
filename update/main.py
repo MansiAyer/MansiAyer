@@ -4,6 +4,12 @@ import sys
 g = Github(sys.argv[1])
 listitems = g.get_user('MansiAyer').get_starred()
 
+
+with open('../src/README.md','r',encoding="utf-8") as file:
+	temp = str(file.read());
+tootitems = [temp]
+
+tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>")
 for x in listitems:
 		try:
 			url = str(x.html_url)
@@ -19,17 +25,9 @@ for x in listitems:
 		except:
 			continue
 		temp = str(title+": <sup>"+proglang+"</sup><span>"+description+"</span>\n<br>\n\n")
-		listitems.append(temp)
-
-with open('../src/README.md','r',encoding="utf-8") as file:
-	temp = str(file.read());
-tootitems = [temp]
-
-tootitems.append("<details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>")
-for x in listitems:
-		a = a.replace("None","<br>No description provided :/<br>")
-		a = a.replace("[]","")
-		tootitems.append(a)
+		temp = temp.replace("None","<br>No description provided :/<br>")
+		temp = temp.replace("[]","")
+		tootitems.append(temp)
 tootitems.append("</i></details>")
 
 with open('../README.md','w',encoding="utf-8") as file:
