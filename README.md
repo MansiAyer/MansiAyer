@@ -83,7 +83,7 @@
 <b>
 <a href ="https://github.com/sdmg15/Best-websites-a-programmer-should-visit">sdmg15/Best-websites-a-programmer-should-visit</a>
 </b>: 
-<sup>[]</sup><span><p>:link: Some useful websites for programmers.</p></span>
+<sup></sup><span><p>:link: Some useful websites for programmers.</p></span>
 <br>
 
 
@@ -104,7 +104,7 @@
 <b>
 <a href ="https://github.com/fluteds/starred">fluteds/starred</a>
 </b>: 
-<sup>[]</sup><span><p>⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!</p></span>
+<sup></sup><span><p>⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!</p></span>
 <br>
 
 
@@ -118,21 +118,21 @@
 <b>
 <a href ="https://github.com/rjoydip/github-actions-automate">rjoydip/github-actions-automate</a>
 </b>: 
-<sup>[]</sup><span><p>Collection of github actions helps to automate GitHub CI/CD.</p></span>
+<sup></sup><span><p>Collection of github actions helps to automate GitHub CI/CD.</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/sdras/awesome-actions">sdras/awesome-actions</a>
 </b>: 
-<sup>[]</sup><span><p>A curated list of awesome actions to use on GitHub</p></span>
+<sup></sup><span><p>A curated list of awesome actions to use on GitHub</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/pumpkin-py/pumpkin-py">pumpkin-py/pumpkin-py</a>
 </b>: 
-<sup>[Python]</sup><span><p><br>No description provided :/<br></p></span>
+<sup>[Python]</sup><span><p>No description provided :/</p></span>
 <br>
 
 
@@ -181,21 +181,21 @@
 <b>
 <a href ="https://github.com/benjaminsampica/benjaminsampica">benjaminsampica/benjaminsampica</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p><br>No description provided :/<br></p></span>
+<sup>[JavaScript]</sup><span><p>No description provided :/</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a>
 </b>: 
-<sup>[]</sup><span><p>A curated list of awesome Android UI/UX libraries</p></span>
+<sup></sup><span><p>A curated list of awesome Android UI/UX libraries</p></span>
 <br>
 
 
 <b>
 <a href ="https://github.com/Hack-with-Github/Awesome-Hacking">Hack-with-Github/Awesome-Hacking</a>
 </b>: 
-<sup>[]</sup><span><p>A collection of various awesome lists for hackers, pentesters and security researchers</p></span>
+<sup></sup><span><p>A collection of various awesome lists for hackers, pentesters and security researchers</p></span>
 <br>
 
 
