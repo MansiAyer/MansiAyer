@@ -17,7 +17,7 @@ for x in listitems:
 		except:
 			continue
 		try:
-			description = str(x.description)
+			description = "<p>"+str(x.description)+"</p>"
 		except:
 			continue
 		try:
