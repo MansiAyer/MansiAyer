@@ -1,7 +1,6 @@
 <div align='center'> 
-  :octocat: <i> :jack_o_lantern: </i> :octocat: 
-  <p><b>it's spooky month</b></p>
-  <img src="src/spookyscaryskeletons.gif"/>
+  :octocat: <i> desert flying pig </i> :octocat: 
+  <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark"/></a>
 </div>
 
 > ## About me:
