@@ -1,7 +1,7 @@
 <div align='center'> 
-  :octocat: <i> :jack_o_lantern: </i> :octocat: 
-  <p><b>it's spooky month</b></p>
-  <img src="src/spookyscaryskeletons.gif"/>
+  :octocat: <i> i'll do it tomorrow </i> :octocat: 
+  <p><b>[![trophy](https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</b></p>
 </div>
 
 > ## About me:
