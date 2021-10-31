@@ -1,7 +1,7 @@
 <div align='center'> 
-  :octocat: <i> i'll do it tomorrow </i> :octocat: 
-  <p><b>[![trophy](https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</b></p>
+  :octocat: <i> :jack_o_lantern: </i> :octocat: 
+  <p><b>it's spooky month</b></p>
+  <img src="src/spookyscaryskeletons.gif"/>
 </div>
 
 > ## About me:
@@ -24,6 +24,188 @@
 
 
 <details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
+<b>
+<a href ="https://github.com/MakeContributions/markdown-dungeon">MakeContributions/markdown-dungeon</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>This is an example that how to use Markdown creating a dungeon, please give a ⭐</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/heatherdesigns/js-katas">heatherdesigns/js-katas</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>No description provided :/</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/drazisil/mco-server">drazisil/mco-server</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/Xetera/this-tweet-took-off">Xetera/this-tweet-took-off</a>
+</b>: 
+<sup>[Python]</sup><span><p>🔪 Block replies to viral tweets from users getting paid to promote useless products</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/github/india">github/india</a>
+</b>: 
+<sup></sup><span><p>GitHub resources and information for the developer community in India</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/redxzeta/Awesome-Adoption">redxzeta/Awesome-Adoption</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>pet adoption near your area</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/elenirotsides/Trivia-Bot">elenirotsides/Trivia-Bot</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>Be Educated. Be Fun. Be Trivia on Discord.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/AeroRust/are-we-in-space-yet">AeroRust/are-we-in-space-yet</a>
+</b>: 
+<sup>[HTML]</sup><span><p>A catalogue of crates in the Rust ecosystem for (aero)space.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/flashreads/blogs">flashreads/blogs</a>
+</b>: 
+<sup></sup><span><p>:books:  :pencil2: Flashreads blogs content :pencil2:  :books: </p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/Linesmerrill/police-cad">Linesmerrill/police-cad</a>
+</b>: 
+<sup>[EJS]</sup><span><p>This is a easy to setup and use police server CAD. Includes a signup/login for both Civilians and Police Officers. Also this is mobile friendly. Built for GTA V's Modding framework: FiveM.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/StevenH237/GTFS-Explorer">StevenH237/GTFS-Explorer</a>
+</b>: 
+<sup>[C#]</sup><span><p>Application to explore routes and schedules within a GTFS file</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/Bensam02/Cartesian-Product-and-MINMAX-composition-in-fuzzy-logic">Bensam02/Cartesian-Product-and-MINMAX-composition-in-fuzzy-logic</a>
+</b>: 
+<sup>[Python]</sup><span><p>Python code to implement cartesian product and minmax composition of fuzzy sets and relations.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/VManuelSM/Membership-functions">VManuelSM/Membership-functions</a>
+</b>: 
+<sup>[Python]</sup><span><p>Membership functions for fuzzy logic, encoded and plotted in python.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/phw/peek">phw/peek</a>
+</b>: 
+<sup>[Vala]</sup><span><p>Simple animated GIF screen recorder with an easy to use interface</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/tldr-pages/tldr">tldr-pages/tldr</a>
+</b>: 
+<sup>[Markdown]</sup><span><p>📚 Collaborative cheatsheets for console commands</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/modscripps/mixsea">modscripps/mixsea</a>
+</b>: 
+<sup>[Python]</sup><span><p>Ocean mixing parameterizations in python</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/Splidejs/splide">Splidejs/splide</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>Splide is a lightweight, flexible and accessible slider and carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/poteto/hiring-without-whiteboards">poteto/hiring-without-whiteboards</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>⭐️  Companies that don't have a broken hiring process</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/htr-tech/zphisher">htr-tech/zphisher</a>
+</b>: 
+<sup>[Hack]</sup><span><p>An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/darkrenaissance/darkfi">darkrenaissance/darkfi</a>
+</b>: 
+<sup>[Rust]</sup><span><p>Anonymous. Uncensored. Sovereign.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/Footsiefat/zspotify">Footsiefat/zspotify</a>
+</b>: 
+<sup>[Python]</sup><span><p>A Spotify downloader needing only a python interpreter and ffmpeg.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/bedimcode/responsive-halloween-website">bedimcode/responsive-halloween-website</a>
+</b>: 
+<sup>[HTML]</sup><span><p>Responsive Halloween Website Design Using HTML CSS & JavaScript </p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/daltonmenezes/aura-theme">daltonmenezes/aura-theme</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps. #Hacktoberfest</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/cedrickchee/squidgame">cedrickchee/squidgame</a>
+</b>: 
+<sup>[Rust]</sup><span><p>[WIP] Red Light, Green Light game inspired by Squid Game implemented in Rust, TypeScript & WebSocket. Play in your browser, multiplayer (at least 2 players), and tiny.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/adam-p/markdown-here">adam-p/markdown-here</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/pi0/clippyjs">pi0/clippyjs</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>Add Clippy or his friends to any website for instant nostalgia</p></span>
+<br>
+
+
 <b>
 <a href ="https://github.com/PyGithub/PyGithub">PyGithub/PyGithub</a>
 </b>: 
@@ -49,188 +231,6 @@
 <a href ="https://github.com/nuxt/nuxtjs.org">nuxt/nuxtjs.org</a>
 </b>: 
 <sup>[Vue]</sup><span><p>Nuxt Documentation Website</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/Dolibarr/dolibarr">Dolibarr/dolibarr</a>
-</b>: 
-<sup>[PHP]</sup><span><p>Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software written in PHP and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/geongeorge/i-hate-regex">geongeorge/i-hate-regex</a>
-</b>: 
-<sup>[Vue]</sup><span><p>The code for iHateregex.io 😈 - The Regex Cheat Sheet</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/eliutgon/buzz-notify">eliutgon/buzz-notify</a>
-</b>: 
-<sup>[CSS]</sup><span><p>✨ Small and Clean JavaScript Toast Notifications</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/maguowei/starred">maguowei/starred</a>
-</b>: 
-<sup>[Python]</sup><span><p>creating your own Awesome List by GitHub stars!</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/sdmg15/Best-websites-a-programmer-should-visit">sdmg15/Best-websites-a-programmer-should-visit</a>
-</b>: 
-<sup></sup><span><p>:link: Some useful websites for programmers.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/home-assistant/core">home-assistant/core</a>
-</b>: 
-<sup>[Python]</sup><span><p>:house_with_garden: Open source home automation that puts local control and privacy first.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/moratelli/github-starred-repos">moratelli/github-starred-repos</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>A React Native App that shows a GitHub user's starred repositories</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/fluteds/starred">fluteds/starred</a>
-</b>: 
-<sup></sup><span><p>⭐ All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow!</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/refined-github/refined-github">refined-github/refined-github</a>
-</b>: 
-<sup>[TypeScript]</sup><span><p>:octocat: Browser extension that simplifies the GitHub interface and adds useful features</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/rjoydip/github-actions-automate">rjoydip/github-actions-automate</a>
-</b>: 
-<sup></sup><span><p>Collection of github actions helps to automate GitHub CI/CD.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/sdras/awesome-actions">sdras/awesome-actions</a>
-</b>: 
-<sup></sup><span><p>A curated list of awesome actions to use on GitHub</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/pumpkin-py/pumpkin-py">pumpkin-py/pumpkin-py</a>
-</b>: 
-<sup>[Python]</sup><span><p>No description provided :/</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/owncast/owncast">owncast/owncast</a>
-</b>: 
-<sup>[HTML]</sup><span><p>Take control over your live stream video by running it yourself.  Streaming + chat out of the box.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/JLambertazzo/ListExtender">JLambertazzo/ListExtender</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>A JavaScript library providing interactive lists</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped/DefinitelyTyped</a>
-</b>: 
-<sup>[TypeScript]</sup><span><p>The repository for high quality TypeScript type definitions.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/googleapis/google-api-php-client">googleapis/google-api-php-client</a>
-</b>: 
-<sup>[PHP]</sup><span><p>A PHP client library for accessing Google APIs</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/Brodevil/Alice">Brodevil/Alice</a>
-</b>: 
-<sup>[Python]</sup><span><p>A virtual desktop Assistant automates several things as best as he can. fun fact: He is male lol</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/oakmac/chessboardjs">oakmac/chessboardjs</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>JavaScript chessboard</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/benjaminsampica/benjaminsampica">benjaminsampica/benjaminsampica</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>No description provided :/</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a>
-</b>: 
-<sup></sup><span><p>A curated list of awesome Android UI/UX libraries</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/Hack-with-Github/Awesome-Hacking">Hack-with-Github/Awesome-Hacking</a>
-</b>: 
-<sup></sup><span><p>A collection of various awesome lists for hackers, pentesters and security researchers</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/skelsec/COMP128">skelsec/COMP128</a>
-</b>: 
-<sup>[Python]</sup><span><p>initial commit</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/matyo91/matyo91">matyo91/matyo91</a>
-</b>: 
-<sup>[Makefile]</sup><span><p>Github Profil description</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/maizzle/maizzle">maizzle/maizzle</a>
-</b>: 
-<sup>[HTML]</sup><span><p>Quickly build HTML emails with Tailwind CSS.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/browser-update/browser-update">browser-update/browser-update</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>Remind users to update their browser in an unobtrusive way</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/TeaInside/teavpn2">TeaInside/teavpn2</a>
-</b>: 
-<sup>[C]</sup><span><p>TeaVPN2 - An open source VPN Software (currently supported platform is only Linux).</p></span>
 <br>
 
 
