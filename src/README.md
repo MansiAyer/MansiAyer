@@ -1,6 +1,6 @@
 <div align='center'> 
   :octocat: <i> desert flying pig </i> :octocat: 
-  <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark"/></a>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark&row=1&no-bg=true&no-frame=true&margin-w=25"/></a></p>
 </div>
 
 > ## About me:
@@ -8,7 +8,7 @@
 > <details><summary>What I have used</summary>  <ul><li>HTML, CSS, JS, JQuery, Bootstrap, Node.js</li> <li>PHP, MySQL, PostgreSQL, XAMPP</li> <li>Unity, Blender</li> <li>Adobe XD, Adobe Illustrator</li> <li>Python, C, Java</li> <li>Google Cloud Platform</li></ul>
 > </details>
 > 
-> <details><summary>What I am learning</summary> Creating a discord bot</details>
+> <details><summary>What I am learning</summary> <ol><li>Creating a discord bot</li><li>a11y</li></details>
 > 
 > <details><summary>What I want to learn</summary> yaml, photoshop, ruby, angular, vue, typescript</details>
 > 
