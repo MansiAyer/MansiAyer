@@ -24,6 +24,48 @@
 
 <details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
 <b>
+<a href ="https://github.com/thewhiteh4t/seeker">thewhiteh4t/seeker</a>
+</b>: 
+<sup>[CSS]</sup><span><p>Accurately Locate Smartphones using Social Engineering </p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/tldraw/tldraw">tldraw/tldraw</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>A tiny little drawing app.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/facebook/docusaurus">facebook/docusaurus</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>Easy to maintain open source documentation websites.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/yarnpkg/berry">yarnpkg/berry</a>
+</b>: 
+<sup>[TypeScript]</sup><span><p>📦🐈 Active development trunk for Yarn ⚒</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/varunsridharan/action-dynamic-readme">varunsridharan/action-dynamic-readme</a>
+</b>: 
+<sup>[PHP]</sup><span><p>~ Dynamic ReadME Generator ~</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/teachaccess/tutorial">teachaccess/tutorial</a>
+</b>: 
+<sup>[JavaScript]</sup><span><p>No description provided :/</p></span>
+<br>
+
+
+<b>
 <a href ="https://github.com/MakeContributions/markdown-dungeon">MakeContributions/markdown-dungeon</a>
 </b>: 
 <sup>[JavaScript]</sup><span><p>This is an example that how to use Markdown creating a dungeon, please give a ⭐</p></span>
@@ -38,7 +80,7 @@
 
 
 <b>
-<a href ="https://github.com/drazisil/mco-server">drazisil/mco-server</a>
+<a href ="https://github.com/drazisil/mcos">drazisil/mcos</a>
 </b>: 
 <sup>[TypeScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
 <br>
@@ -138,7 +180,7 @@
 <b>
 <a href ="https://github.com/Splidejs/splide">Splidejs/splide</a>
 </b>: 
-<sup>[TypeScript]</sup><span><p>Splide is a lightweight, flexible and accessible slider and carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></span>
+<sup>[TypeScript]</sup><span><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></span>
 <br>
 
 
@@ -188,48 +230,6 @@
 <a href ="https://github.com/cedrickchee/squidgame">cedrickchee/squidgame</a>
 </b>: 
 <sup>[Rust]</sup><span><p>[WIP] Red Light, Green Light game inspired by Squid Game implemented in Rust, TypeScript & WebSocket. Play in your browser, multiplayer (at least 2 players), and tiny.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/adam-p/markdown-here">adam-p/markdown-here</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/pi0/clippyjs">pi0/clippyjs</a>
-</b>: 
-<sup>[JavaScript]</sup><span><p>Add Clippy or his friends to any website for instant nostalgia</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/PyGithub/PyGithub">PyGithub/PyGithub</a>
-</b>: 
-<sup>[Python]</sup><span><p>Typed interactions with the GitHub API v3</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a>
-</b>: 
-<sup>[TypeScript]</sup><span><p>🏆 Add dynamically generated GitHub Stat Trophies  on your readme</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/qtile/qtile">qtile/qtile</a>
-</b>: 
-<sup>[Python]</sup><span><p>:cookie: A full-featured, hackable tiling window manager written and configured in Python</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/nuxt/nuxtjs.org">nuxt/nuxtjs.org</a>
-</b>: 
-<sup>[Vue]</sup><span><p>Nuxt Documentation Website</p></span>
 <br>
 
 
