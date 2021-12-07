@@ -1,5 +1,5 @@
 <div align='center'> 
-  :octocat: <i> desert flying pig </i> :octocat: 
+  :octocat: <i> 내 손가락이 아파 </i> :octocat: 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark&row=1&no-bg=true&no-frame=true&margin-w=25"/></a></p>
 </div>
 
@@ -96,7 +96,7 @@
 <b>
 <a href ="https://github.com/github/india">github/india</a>
 </b>: 
-<sup></sup><span><p>GitHub resources and information for the developer community in India</p></span>
+<sup>[JavaScript]</sup><span><p>GitHub resources and information for the developer community in India</p></span>
 <br>
 
 
@@ -110,7 +110,7 @@
 <b>
 <a href ="https://github.com/elenirotsides/Trivia-Bot">elenirotsides/Trivia-Bot</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>Be Educated. Be Fun. Be Trivia on Discord.</p></span>
+<sup>[JavaScript]</sup><span><p>Be Educated. Be Fun. Be Trivia on Discord. 🧠</p></span>
 <br>
 
 
@@ -222,7 +222,7 @@
 <b>
 <a href ="https://github.com/daltonmenezes/aura-theme">daltonmenezes/aura-theme</a>
 </b>: 
-<sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps. #Hacktoberfest</p></span>
+<sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps.</p></span>
 <br>
 
 
