@@ -1,5 +1,5 @@
 <div align='center'> 
-  :octocat: <i> desert flying pig </i> :octocat: 
+  :octocat: <i> 내 손가락이 아파 </i> :octocat: 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=MansiAyer&theme=onedark&row=1&no-bg=true&no-frame=true&margin-w=25"/></a></p>
 </div>
 
