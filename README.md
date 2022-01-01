@@ -213,13 +213,6 @@
 
 
 <b>
-<a href ="https://github.com/Footsiefat/zspotify">Footsiefat/zspotify</a>
-</b>: 
-<sup>[Python]</sup><span><p>A Spotify downloader needing only a python interpreter and ffmpeg.</p></span>
-<br>
-
-
-<b>
 <a href ="https://github.com/bedimcode/responsive-halloween-website">bedimcode/responsive-halloween-website</a>
 </b>: 
 <sup>[HTML]</sup><span><p>Responsive Halloween Website Design Using HTML CSS & JavaScript </p></span>
@@ -230,6 +223,13 @@
 <a href ="https://github.com/daltonmenezes/aura-theme">daltonmenezes/aura-theme</a>
 </b>: 
 <sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps.</p></span>
+<br>
+
+
+<b>
+<a href ="https://github.com/cedrickchee/squidgame">cedrickchee/squidgame</a>
+</b>: 
+<sup>[Rust]</sup><span><p>[WIP] Red Light, Green Light game inspired by Squid Game implemented in Rust, TypeScript & WebSocket. Play in your browser, multiplayer (at least 2 players), and tiny.</p></span>
 <br>
 
 
