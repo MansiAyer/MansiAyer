@@ -24,6 +24,13 @@
 
 <details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
 <b>
+<a href ="https://github.com/Metroxe/one-html-page-challenge">Metroxe/one-html-page-challenge</a>
+</b>: 
+<sup>[HTML]</sup><span><p>Can you create something cool without modern tools?</p></span>
+<br>
+
+
+<b>
 <a href ="https://github.com/jayphelps/git-blame-someone-else">jayphelps/git-blame-someone-else</a>
 </b>: 
 <sup>[Shell]</sup><span><p>Blame someone else for your bad code.</p></span>
@@ -223,13 +230,6 @@
 <a href ="https://github.com/daltonmenezes/aura-theme">daltonmenezes/aura-theme</a>
 </b>: 
 <sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps.</p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/cedrickchee/squidgame">cedrickchee/squidgame</a>
-</b>: 
-<sup>[Rust]</sup><span><p>[WIP] Red Light, Green Light game inspired by Squid Game implemented in Rust, TypeScript & WebSocket. Play in your browser, multiplayer (at least 2 players), and tiny.</p></span>
 <br>
 
 
