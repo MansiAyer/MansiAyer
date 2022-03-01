@@ -145,7 +145,7 @@
 <b>
 <a href ="https://github.com/Linesmerrill/police-cad">Linesmerrill/police-cad</a>
 </b>: 
-<sup>[EJS]</sup><span><p>This is a easy to setup and use police server CAD. Includes a signup/login for both Civilians and Police Officers. Also this is mobile friendly. Built for GTA V's Modding framework: FiveM.</p></span>
+<sup>[JavaScript]</sup><span><p>This is a easy to setup and use police server CAD. Includes a signup/login for both Civilians and Police Officers. Also this is mobile friendly. Built for GTA V's Modding framework: FiveM.</p></span>
 <br>
 
 
