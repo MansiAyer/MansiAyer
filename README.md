@@ -24,6 +24,13 @@
 
 <details><summary><sub>:octocat: Recently Starred Repos :octocat:</sub></summary><hr><i>
 <b>
+<a href ="https://github.com/dikshaprakash0/PHP-Website">dikshaprakash0/PHP-Website</a>
+</b>: 
+<sup>[PHP]</sup><span><p>It's a PHP website.</p></span>
+<br>
+
+
+<b>
 <a href ="https://github.com/Metroxe/one-html-page-challenge">Metroxe/one-html-page-challenge</a>
 </b>: 
 <sup>[HTML]</sup><span><p>Can you create something cool without modern tools?</p></span>
@@ -223,13 +230,6 @@
 <a href ="https://github.com/bedimcode/responsive-halloween-website">bedimcode/responsive-halloween-website</a>
 </b>: 
 <sup>[HTML]</sup><span><p>Responsive Halloween Website Design Using HTML CSS & JavaScript </p></span>
-<br>
-
-
-<b>
-<a href ="https://github.com/daltonmenezes/aura-theme">daltonmenezes/aura-theme</a>
-</b>: 
-<sup>[TypeScript]</sup><span><p>✨ A beautiful dark theme for your favorite apps.</p></span>
 <br>
 
 
