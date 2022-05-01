@@ -103,7 +103,7 @@
 <b>
 <a href ="https://github.com/drazisil/mcos">drazisil/mcos</a>
 </b>: 
-<sup>[TypeScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
+<sup>[JavaScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
 <br>
 
 
