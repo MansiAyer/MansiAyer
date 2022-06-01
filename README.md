@@ -103,7 +103,7 @@
 <b>
 <a href ="https://github.com/drazisil/mcos">drazisil/mcos</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
+<sup>[TypeScript]</sup><span><p>A game server, being written from scratch, for a very old and long dead game</p></span>
 <br>
 
 
@@ -124,7 +124,7 @@
 <b>
 <a href ="https://github.com/redxzeta/Awesome-Adoption">redxzeta/Awesome-Adoption</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>pet adoption near your area</p></span>
+<sup>[TypeScript]</sup><span><p>pet adoption near your area</p></span>
 <br>
 
 
