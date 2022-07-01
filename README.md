@@ -117,7 +117,7 @@
 <b>
 <a href ="https://github.com/github/india">github/india</a>
 </b>: 
-<sup>[JavaScript]</sup><span><p>GitHub resources and information for the developer community in India</p></span>
+<sup></sup><span><p>GitHub resources and information for the developer community in India</p></span>
 <br>
 
 
